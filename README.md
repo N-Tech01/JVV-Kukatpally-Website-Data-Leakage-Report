@@ -14,7 +14,9 @@ This directory contains sensitive files that could be accessed without authentic
 - 14924721tccccc.php.pdf  
 - 16146676alfa.php  
 - 17344575kocu.png  
-- 50334046na.pdf  
+- 50334046na.pdf
+- etc...
+  
 
 And several others. These files appear to contain confidential information, including audit reports, personal data, and other sensitive documents, which should not be exposed.
 
